@@ -1,4 +1,20 @@
 disabled: []
 enabled:
+  - id: Catppuccin.catppuccin-vsc
+    uuid: 69264e4d-cd3b-468a-8f2b-e69673c7d864
+  - id: Catppuccin.catppuccin-vsc-icons
+    uuid: c84e505c-f415-4102-b952-53cb6f0bdf10
+  - id: ms-vscode.cmake-tools
+    uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
+  - id: ms-vscode.cpptools
+    uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
+  - id: ms-vscode.cpptools-extension-pack
+    uuid: 3957b2f6-f086-49b5-a7b4-5da772123130
+  - id: ms-vscode.cpptools-themes
+    uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
+  - id: twxs.cmake
+    uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
+  - id: xaberus.remote-oss
+    uuid: fb74ba36-7e9e-42bb-af44-8088e419a768
   - id: zokugun.cron-tasks
-    uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

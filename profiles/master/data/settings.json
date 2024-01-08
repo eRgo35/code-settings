@@ -1,5 +1,22 @@
 {
     "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "remote.OSS.hosts": [
+        {
+            "type": "manual",
+            "name": "local",
+            "host": "127.0.0.1",
+            "port": 8000,
+            "folders": [
+                {
+                    "name": "home",
+                    "path": "/home/mike",
+                },
+            ],
+        }
+    ],
     "editor.minimap.enabled": false,
-    "telemetry.telemetryLevel": "off"
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontFamily": "'Hack Nerd Font Mono', 'Droid Sans Mono', 'monospace', monospace"
 }
